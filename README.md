@@ -5,12 +5,12 @@ This is an initiation which is for first year students who wish to learn **_Fron
 
 ## Coordinator and Resource Persons Contact Details
 
-**Name** : _Syed Miran Hussain_ , Data Scientist.\
+**Name** : _Syed Miran Hussain_\
 **Mobile Number** : 8374874731\
 **LinkedIn** : <a href="https://www.linkedin.com/in/syed-miran-hussain-39bb62211/" target="_blank">LinkedIn</a>\
 **Email** : miranrocks31@gmail.com
 
-**Name** : _Mohammed Ufraan_ , Full-Stack Web Developer.\
+**Name** : _Mohammed Ufraan_\
 **Mobile Number** : 8125709785\
 **LinkedIn** : <a href="https://www.linkedin.com/in/ufraaan/" target="_blank">LinkedIn</a>\
 **Email** : kurosen930@gmail.com
